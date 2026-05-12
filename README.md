@@ -95,8 +95,8 @@ From `C:\SFML-2.6.1\bin\` copy these into your output folder
 | Key / Action         | Effect                          |
 |----------------------|---------------------------------|
 | `SPACE`              | Start next wave                 |
-| `1`                  | Select Cannon Tower (75g)       |
-| `2`                  | Select Machine Gun Tower (50g)  |
+| `1`                  | Select Cannon Tower (50g)       |
+| `2`                  | Select Machine Gun Tower (75g)  |
 | `3`                  | Select Sniper Tower (100g)      |
 | Left Click (on map)  | Place selected tower            |
 
@@ -120,16 +120,16 @@ From `C:\SFML-2.6.1\bin\` copy these into your output folder
 
 | Type        | HP  | Speed | Gold | Notes            |
 |-------------|-----|-------|------|------------------|
-| BasicEnemy  | 80  | 80    | 10   | Red circle       |
-| FastEnemy   | 40  | 160   | 15   | Yellow, small    |
-| TankEnemy   | 300 | 40    | 50   | Blue, large      |
+| BasicEnemy  | 80  | 80    | 10   | SLIME            |
+| FastEnemy   | 40  | 160   | 15   | BEE              |
+| TankEnemy   | 300 | 40    | 50   | MONSTER          |
 
 ## Towers
 
 | Type          | Damage | Range | Fire Rate | Cost |
 |---------------|--------|-------|-----------|------|
-| Cannon        | 25     | 120   | 1/sec     | 75g  |
-| Machine Gun   | 8      | 80    | 5/sec     | 50g  |
+| Cannon        | 25     | 120   | 1/sec     | 50g  |
+| Machine Gun   | 8      | 80    | 5/sec     | 75g  |
 | Sniper        | 80     | 250   | 0.4/sec   | 100g |
 
 ---
